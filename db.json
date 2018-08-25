@@ -1,0 +1,32 @@
+{
+  "reservations": [
+    {
+      "name": "John",
+      "id": 1,
+      "hotelName": "Yacht Club",
+      "arrivalDate": "04/13/2016",
+      "departureDate": "04/16/2016"
+    },
+    {
+      "id": "2",
+      "name": "Ben",
+      "hotelName": "Breakers",
+      "arrivalDate": "02/01/2017",
+      "departureDate": "02/05/2017"
+    },
+    {
+      "id": "3",
+      "name": "Este",
+      "hotelName": "Red Roof Inn",
+      "arrivalDate": "03/04/2017",
+      "departureDate": "03/16/2017"
+    },
+    {
+      "id": "4",
+      "name": "Mom",
+      "hotelName": "Holiday Inn",
+      "arrivalDate": "05/13/2017",
+      "departureDate": "05/18/2017"
+    }
+  ]
+}
