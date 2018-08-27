@@ -1,3 +1,7 @@
+# Graphql Express Server
+
+-I created a graphql-express server that runs on "http://localhost:7700". The server uses bodyParser and connects with the Graphql schema. In addition, I used a package called json-server that allows the frontend to make calls and add data to the db.json file in this repository. 
+
 # Directions to Use
 
 1) clone repo from terminal
